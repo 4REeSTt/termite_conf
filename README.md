@@ -13,3 +13,7 @@ instal:
   arc-gtk-theme
   arc-icon-theme
   rofi
+
+
+#Lang add
+  exec --no-startup-id "setxkbmap -layout us,ru -option 'grp:ctrl_alt_toggle'"
